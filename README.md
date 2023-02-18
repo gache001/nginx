@@ -1,8 +1,3 @@
 # nginx
 
-```
-nnnfekfef
-fnefefeienfe
-fnekfnene
-```
 
